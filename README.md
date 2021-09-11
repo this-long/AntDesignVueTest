@@ -1,7 +1,6 @@
 # ant-design-vue-test
 
-Company
-测试 Ant Design Vue 组件库在移动端部分组件的用户使用体验
+Ant Design Vue 组件库在移动端部分组件的用户使用体验服务器发布
 
 ## Project setup
 
